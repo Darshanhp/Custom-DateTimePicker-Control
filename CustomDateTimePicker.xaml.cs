@@ -16,7 +16,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using Telerik.Windows.Controls;
 
-namespace Templates.View
+namespace Example
 {
     /// <summary>
     /// Interaction logic for CustomDateTimePicker.xaml
